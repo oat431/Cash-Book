@@ -1,21 +1,14 @@
-# My Personal Web application template for frontend
+# Simple Cash Book
 
-## Stack
+## Feature
 
-- Vite
-- Vue3
-- Vue router
-- Vue Vuex
-- TailwindCSS
-- Daisy
+- Authentication (Firebase)
+- Profile Viewer
+- Cash Book CRUD
 
 ## Usage
 
-1. create new repository with this template
-2. clone to your local machine
-3. change project name on package.json
-4. `npm install`
-5. `npm run dev`
+` some hosting service `
 
 ---
 
