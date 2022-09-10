@@ -1,5 +1,5 @@
 <template>
-    <Heroicon header="Home Page"/>
+    <Heroicon header="home page"/>
 </template>
 
 <script setup>
